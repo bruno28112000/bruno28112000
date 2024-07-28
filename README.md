@@ -1,6 +1,6 @@
-### boas vindas ao meu perfil ➗✖️➕➖
+### Boas Vindas ao Meu Perfil ➗✖️➕➖
 
-meu nome é Bruno
+Meu nome é Bruno
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -12,4 +12,4 @@ meu nome é Bruno
 
   @brunopereira981l
 
-  ![](https://media.tenor.com/rSKDbt6vztAAAAAM/naruto-rasengan.gif)
+  ![](https://media.tenor.com/wVj3vy6H8EIAAAAM/bookio.gif)
