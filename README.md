@@ -13,5 +13,5 @@ Meu nome é Bruno
   @brunopereira981l
 
   ![](https://media.tenor.com/wVj3vy6H8EIAAAAM/bookio.gif)
- ![](https://media1.tenor.com/m/5hf1BiaFU58AAAAd/galo-fan-token-galo-token.gif)
-❗
+
+
